@@ -1,4 +1,4 @@
-# Project 1 — DAM Product Analytics & Asset Governance Platform
+# DAM Product Analytics & Asset Governance Platform
 
 ## Portfolio summary
 A simulated enterprise digital asset management (DAM) analytics solution that brings asset inventory, usage events, metadata completeness, rights dates, and workflow aging into a decision-ready product dashboard.
