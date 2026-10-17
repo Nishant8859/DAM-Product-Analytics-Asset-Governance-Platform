@@ -1,0 +1,421 @@
+task_id,asset_id,submitted_date,workflow_stage,status,assigned_team,days_in_stage,due_date,completion_date
+WF00001,DAM00051,2026-10-06,Legal Approval,Completed,Sales Enablement,0,2026-10-10,2026-10-12
+WF00002,DAM00732,2026-09-02,Legal Approval,In Progress,Sales Enablement,16,2026-09-12,
+WF00003,DAM00295,2026-10-12,Creative Review,Completed,Brand,0,2026-10-24,2026-10-13
+WF00004,DAM00261,2026-09-04,Brand Review,In Progress,Brand,11,2026-09-18,
+WF00005,DAM00529,2026-08-26,Final QA,Completed,Brand,0,2026-09-06,2026-10-10
+WF00006,DAM00356,2026-09-09,Legal Approval,In Progress,HR Communications,18,2026-09-19,
+WF00007,DAM00760,2026-10-08,Creative Review,Pending,Product Marketing,32,2026-10-19,
+WF00008,DAM00004,2026-09-08,Legal Approval,Completed,Product Marketing,0,2026-09-12,2026-09-17
+WF00009,DAM00080,2026-10-16,Brand Review,Completed,Sales Enablement,0,2026-10-24,2026-10-17
+WF00010,DAM00202,2026-09-16,Legal Approval,In Progress,Regional Marketing,18,2026-09-25,
+WF00011,DAM00262,2026-08-29,Brand Review,In Progress,HR Communications,14,2026-09-12,
+WF00012,DAM00654,2026-09-24,Brand Review,Completed,Sales Enablement,0,2026-10-07,2026-10-07
+WF00013,DAM00461,2026-09-14,Brand Review,Pending,HR Communications,24,2026-09-28,
+WF00014,DAM00170,2026-10-12,Final QA,In Progress,Brand,3,2026-10-19,
+WF00015,DAM00739,2026-09-09,Brand Review,In Progress,Product Marketing,22,2026-09-18,
+WF00016,DAM00291,2026-09-28,Final QA,Completed,Regional Marketing,0,2026-10-05,2026-10-04
+WF00017,DAM00045,2026-09-06,Legal Approval,Completed,Sales Enablement,0,2026-09-18,2026-09-16
+WF00018,DAM00734,2026-08-28,Localization,In Progress,Sales Enablement,7,2026-09-07,
+WF00019,DAM00106,2026-10-11,Creative Review,Completed,Regional Marketing,0,2026-10-22,2026-10-13
+WF00020,DAM00072,2026-10-12,Legal Approval,Completed,Product Marketing,0,2026-10-17,2026-10-14
+WF00021,DAM00554,2026-10-13,Creative Review,Pending,Regional Marketing,16,2026-10-27,
+WF00022,DAM00076,2026-10-08,Localization,Completed,HR Communications,0,2026-10-18,2026-10-14
+WF00023,DAM00325,2026-10-13,Brand Review,In Progress,Regional Marketing,7,2026-10-25,
+WF00024,DAM00454,2026-09-30,Legal Approval,Completed,Product Marketing,0,2026-10-10,2026-10-03
+WF00025,DAM00496,2026-09-05,Legal Approval,In Progress,Brand,11,2026-09-11,
+WF00026,DAM00285,2026-09-06,Brand Review,Completed,Product Marketing,0,2026-09-16,2026-09-07
+WF00027,DAM00619,2026-09-24,Final QA,Completed,Brand,0,2026-10-04,2026-10-14
+WF00028,DAM00731,2026-09-15,Brand Review,Completed,HR Communications,0,2026-09-20,2026-09-18
+WF00029,DAM00032,2026-09-06,Legal Approval,In Progress,Product Marketing,22,2026-09-18,
+WF00030,DAM00232,2026-10-01,Brand Review,Pending,Brand,26,2026-10-15,
+WF00031,DAM00578,2026-09-20,Brand Review,In Progress,Product Marketing,13,2026-10-02,
+WF00032,DAM00639,2026-09-09,Localization,Completed,Brand,0,2026-09-18,2026-09-13
+WF00033,DAM00292,2026-09-27,Creative Review,Completed,Regional Marketing,0,2026-10-10,2026-10-04
+WF00034,DAM00338,2026-08-29,Legal Approval,Completed,Product Marketing,0,2026-09-10,2026-10-07
+WF00035,DAM00510,2026-09-28,Final QA,Completed,Brand,0,2026-10-08,2026-10-15
+WF00036,DAM00415,2026-09-12,Creative Review,Completed,Sales Enablement,0,2026-09-21,2026-10-06
+WF00037,DAM00021,2026-10-11,Creative Review,Completed,Product Marketing,0,2026-10-17,2026-10-13
+WF00038,DAM00411,2026-10-11,Final QA,Pending,Product Marketing,12,2026-10-16,
+WF00039,DAM00268,2026-10-06,Brand Review,Pending,HR Communications,20,2026-10-11,
+WF00040,DAM00214,2026-09-17,Localization,Completed,HR Communications,0,2026-10-01,2026-10-12
+WF00041,DAM00610,2026-10-07,Final QA,In Progress,Brand,33,2026-10-21,
+WF00042,DAM00460,2026-10-16,Localization,Completed,HR Communications,0,2026-10-26,2026-10-18
+WF00043,DAM00594,2026-09-02,Localization,In Progress,Product Marketing,12,2026-09-15,
+WF00044,DAM00425,2026-09-08,Localization,Completed,Regional Marketing,0,2026-09-19,2026-10-15
+WF00045,DAM00709,2026-08-27,Final QA,In Progress,Product Marketing,14,2026-09-03,
+WF00046,DAM00193,2026-10-03,Legal Approval,Completed,Brand,0,2026-10-09,2026-10-05
+WF00047,DAM00338,2026-08-31,Legal Approval,Pending,Brand,2,2026-09-07,
+WF00048,DAM00647,2026-09-16,Creative Review,Completed,Regional Marketing,0,2026-09-20,2026-10-13
+WF00049,DAM00496,2026-10-04,Final QA,In Progress,HR Communications,34,2026-10-08,
+WF00050,DAM00558,2026-10-05,Localization,In Progress,Product Marketing,6,2026-10-12,
+WF00051,DAM00543,2026-10-10,Localization,Completed,HR Communications,0,2026-10-14,2026-10-16
+WF00052,DAM00471,2026-10-11,Legal Approval,Completed,HR Communications,0,2026-10-20,2026-10-16
+WF00053,DAM00246,2026-08-26,Brand Review,Pending,Product Marketing,4,2026-09-02,
+WF00054,DAM00411,2026-09-20,Localization,Completed,Product Marketing,0,2026-09-24,2026-10-03
+WF00055,DAM00763,2026-09-01,Creative Review,Pending,Regional Marketing,27,2026-09-08,
+WF00056,DAM00331,2026-09-15,Final QA,Pending,HR Communications,22,2026-09-29,
+WF00057,DAM00693,2026-10-05,Brand Review,Completed,Brand,0,2026-10-10,2026-10-15
+WF00058,DAM00387,2026-09-15,Final QA,In Progress,Sales Enablement,16,2026-09-28,
+WF00059,DAM00298,2026-10-08,Final QA,Completed,HR Communications,0,2026-10-15,2026-10-15
+WF00060,DAM00161,2026-09-12,Legal Approval,In Progress,Regional Marketing,32,2026-09-23,
+WF00061,DAM00659,2026-09-26,Brand Review,Completed,Sales Enablement,0,2026-10-01,2026-10-03
+WF00062,DAM00254,2026-10-05,Legal Approval,In Progress,Regional Marketing,18,2026-10-11,
+WF00063,DAM00463,2026-09-15,Brand Review,Pending,Regional Marketing,9,2026-09-28,
+WF00064,DAM00730,2026-09-10,Legal Approval,Pending,Regional Marketing,22,2026-09-20,
+WF00065,DAM00594,2026-09-05,Creative Review,In Progress,Product Marketing,11,2026-09-10,
+WF00066,DAM00627,2026-08-23,Localization,In Progress,Product Marketing,23,2026-09-01,
+WF00067,DAM00592,2026-09-07,Final QA,In Progress,Regional Marketing,18,2026-09-18,
+WF00068,DAM00063,2026-09-30,Creative Review,Completed,Product Marketing,0,2026-10-13,2026-10-10
+WF00069,DAM00514,2026-09-13,Legal Approval,In Progress,Regional Marketing,27,2026-09-19,
+WF00070,DAM00236,2026-10-12,Localization,In Progress,Regional Marketing,10,2026-10-20,
+WF00071,DAM00637,2026-08-27,Creative Review,Pending,Product Marketing,23,2026-09-05,
+WF00072,DAM00407,2026-09-09,Localization,Pending,HR Communications,20,2026-09-17,
+WF00073,DAM00600,2026-09-02,Creative Review,Completed,Product Marketing,0,2026-09-13,2026-10-07
+WF00074,DAM00623,2026-10-10,Creative Review,Completed,HR Communications,0,2026-10-21,2026-10-15
+WF00075,DAM00544,2026-09-24,Brand Review,Completed,Sales Enablement,0,2026-10-05,2026-09-29
+WF00076,DAM00293,2026-09-13,Creative Review,Pending,Brand,16,2026-09-26,
+WF00077,DAM00346,2026-09-20,Legal Approval,Completed,Sales Enablement,0,2026-09-29,2026-09-25
+WF00078,DAM00012,2026-09-30,Localization,In Progress,HR Communications,14,2026-10-04,
+WF00079,DAM00493,2026-08-28,Creative Review,In Progress,HR Communications,5,2026-09-07,
+WF00080,DAM00140,2026-09-19,Creative Review,Completed,Sales Enablement,0,2026-09-27,2026-10-04
+WF00081,DAM00342,2026-09-28,Final QA,Pending,Sales Enablement,18,2026-10-10,
+WF00082,DAM00426,2026-10-10,Legal Approval,In Progress,HR Communications,15,2026-10-20,
+WF00083,DAM00297,2026-10-01,Localization,Completed,Regional Marketing,0,2026-10-05,2026-10-14
+WF00084,DAM00420,2026-08-23,Legal Approval,Completed,Sales Enablement,0,2026-09-01,2026-09-30
+WF00085,DAM00781,2026-09-20,Final QA,Completed,Brand,0,2026-10-03,2026-10-02
+WF00086,DAM00211,2026-09-27,Final QA,Completed,HR Communications,0,2026-10-03,2026-10-15
+WF00087,DAM00428,2026-10-08,Final QA,Completed,Product Marketing,0,2026-10-18,2026-10-13
+WF00088,DAM00099,2026-08-28,Final QA,Completed,HR Communications,0,2026-09-05,2026-10-05
+WF00089,DAM00448,2026-10-15,Brand Review,Pending,Brand,23,2026-10-21,
+WF00090,DAM00533,2026-10-12,Creative Review,Completed,Brand,0,2026-10-25,2026-10-16
+WF00091,DAM00399,2026-08-24,Legal Approval,Completed,Regional Marketing,0,2026-09-05,2026-08-29
+WF00092,DAM00547,2026-10-08,Final QA,In Progress,Regional Marketing,28,2026-10-15,
+WF00093,DAM00448,2026-09-30,Legal Approval,In Progress,HR Communications,6,2026-10-08,
+WF00094,DAM00090,2026-09-07,Creative Review,In Progress,Brand,26,2026-09-12,
+WF00095,DAM00337,2026-09-05,Final QA,Completed,HR Communications,0,2026-09-11,2026-10-14
+WF00096,DAM00319,2026-09-28,Creative Review,In Progress,Regional Marketing,23,2026-10-10,
+WF00097,DAM00151,2026-09-06,Final QA,Pending,Regional Marketing,7,2026-09-19,
+WF00098,DAM00402,2026-10-05,Creative Review,In Progress,HR Communications,6,2026-10-10,
+WF00099,DAM00292,2026-08-26,Creative Review,Pending,Brand,32,2026-09-05,
+WF00100,DAM00110,2026-09-25,Final QA,In Progress,HR Communications,29,2026-10-06,
+WF00101,DAM00455,2026-10-06,Localization,Completed,Regional Marketing,0,2026-10-20,2026-10-16
+WF00102,DAM00110,2026-10-10,Creative Review,In Progress,Sales Enablement,5,2026-10-18,
+WF00103,DAM00563,2026-09-07,Localization,In Progress,HR Communications,2,2026-09-21,
+WF00104,DAM00206,2026-09-30,Legal Approval,Completed,Sales Enablement,0,2026-10-07,2026-10-17
+WF00105,DAM00189,2026-09-29,Creative Review,Completed,Product Marketing,0,2026-10-09,2026-10-02
+WF00106,DAM00166,2026-08-29,Legal Approval,Completed,Brand,0,2026-09-05,2026-09-21
+WF00107,DAM00543,2026-09-15,Final QA,Completed,Regional Marketing,0,2026-09-20,2026-09-24
+WF00108,DAM00759,2026-09-03,Localization,In Progress,Sales Enablement,32,2026-09-15,
+WF00109,DAM00735,2026-09-03,Creative Review,Completed,Product Marketing,0,2026-09-16,2026-09-12
+WF00110,DAM00372,2026-08-23,Final QA,In Progress,Product Marketing,5,2026-09-06,
+WF00111,DAM00641,2026-09-27,Final QA,Completed,Regional Marketing,0,2026-10-04,2026-10-13
+WF00112,DAM00588,2026-09-09,Localization,Completed,Brand,0,2026-09-22,2026-09-17
+WF00113,DAM00264,2026-09-08,Creative Review,Completed,Product Marketing,0,2026-09-15,2026-09-27
+WF00114,DAM00744,2026-09-04,Legal Approval,Completed,HR Communications,0,2026-09-15,2026-10-17
+WF00115,DAM00212,2026-09-29,Final QA,In Progress,HR Communications,33,2026-10-05,
+WF00116,DAM00296,2026-09-05,Localization,Completed,Sales Enablement,0,2026-09-17,2026-09-25
+WF00117,DAM00620,2026-10-04,Final QA,Completed,Regional Marketing,0,2026-10-17,2026-10-05
+WF00118,DAM00481,2026-08-23,Localization,Completed,HR Communications,0,2026-08-31,2026-09-30
+WF00119,DAM00067,2026-10-01,Final QA,In Progress,Sales Enablement,4,2026-10-14,
+WF00120,DAM00262,2026-09-12,Creative Review,Pending,Product Marketing,7,2026-09-25,
+WF00121,DAM00749,2026-10-12,Creative Review,Completed,Sales Enablement,0,2026-10-25,2026-10-14
+WF00122,DAM00608,2026-10-15,Brand Review,In Progress,Brand,35,2026-10-25,
+WF00123,DAM00367,2026-08-29,Creative Review,Pending,Sales Enablement,30,2026-09-06,
+WF00124,DAM00361,2026-10-11,Creative Review,In Progress,Sales Enablement,35,2026-10-19,
+WF00125,DAM00691,2026-09-25,Creative Review,Pending,HR Communications,16,2026-10-03,
+WF00126,DAM00422,2026-10-03,Creative Review,In Progress,Regional Marketing,8,2026-10-08,
+WF00127,DAM00555,2026-09-19,Localization,Completed,Sales Enablement,0,2026-10-03,2026-10-10
+WF00128,DAM00255,2026-09-13,Localization,Completed,Regional Marketing,0,2026-09-17,2026-09-15
+WF00129,DAM00184,2026-10-02,Brand Review,Completed,Brand,0,2026-10-10,2026-10-07
+WF00130,DAM00340,2026-09-16,Creative Review,In Progress,Sales Enablement,26,2026-09-22,
+WF00131,DAM00546,2026-09-28,Localization,Pending,Product Marketing,9,2026-10-07,
+WF00132,DAM00427,2026-10-11,Brand Review,Completed,Product Marketing,0,2026-10-19,2026-10-16
+WF00133,DAM00355,2026-09-08,Final QA,In Progress,Brand,16,2026-09-22,
+WF00134,DAM00725,2026-08-27,Localization,Pending,Brand,21,2026-08-31,
+WF00135,DAM00078,2026-09-19,Creative Review,Pending,HR Communications,25,2026-09-24,
+WF00136,DAM00776,2026-09-02,Localization,Completed,Product Marketing,0,2026-09-14,2026-10-04
+WF00137,DAM00791,2026-09-05,Localization,Completed,HR Communications,0,2026-09-14,2026-09-25
+WF00138,DAM00404,2026-09-06,Final QA,Pending,Product Marketing,30,2026-09-12,
+WF00139,DAM00663,2026-08-29,Creative Review,Completed,Product Marketing,0,2026-09-10,2026-09-13
+WF00140,DAM00191,2026-09-12,Localization,Completed,Brand,0,2026-09-18,2026-10-07
+WF00141,DAM00159,2026-09-13,Legal Approval,Pending,Regional Marketing,20,2026-09-19,
+WF00142,DAM00628,2026-09-24,Final QA,Pending,Sales Enablement,16,2026-09-30,
+WF00143,DAM00642,2026-09-19,Localization,Completed,Product Marketing,0,2026-10-02,2026-10-03
+WF00144,DAM00064,2026-09-13,Creative Review,Pending,Regional Marketing,8,2026-09-19,
+WF00145,DAM00362,2026-09-30,Creative Review,Pending,Brand,30,2026-10-08,
+WF00146,DAM00704,2026-10-05,Final QA,Completed,Brand,0,2026-10-09,2026-10-16
+WF00147,DAM00221,2026-09-22,Creative Review,Completed,Brand,0,2026-09-26,2026-10-07
+WF00148,DAM00042,2026-09-01,Localization,Completed,Brand,0,2026-09-13,2026-09-22
+WF00149,DAM00422,2026-09-14,Final QA,In Progress,Sales Enablement,8,2026-09-21,
+WF00150,DAM00242,2026-09-13,Legal Approval,Completed,HR Communications,0,2026-09-18,2026-09-17
+WF00151,DAM00456,2026-09-09,Legal Approval,In Progress,Sales Enablement,16,2026-09-20,
+WF00152,DAM00494,2026-09-09,Final QA,Pending,Brand,32,2026-09-16,
+WF00153,DAM00697,2026-09-30,Brand Review,Completed,HR Communications,0,2026-10-06,2026-10-03
+WF00154,DAM00550,2026-09-27,Legal Approval,Pending,Regional Marketing,35,2026-10-09,
+WF00155,DAM00636,2026-09-13,Legal Approval,In Progress,HR Communications,30,2026-09-19,
+WF00156,DAM00755,2026-08-24,Brand Review,Pending,Brand,31,2026-09-01,
+WF00157,DAM00113,2026-09-13,Creative Review,Pending,Sales Enablement,26,2026-09-21,
+WF00158,DAM00416,2026-08-28,Localization,In Progress,Brand,11,2026-09-03,
+WF00159,DAM00143,2026-10-15,Final QA,Completed,HR Communications,0,2026-10-22,2026-10-17
+WF00160,DAM00557,2026-10-10,Brand Review,In Progress,Product Marketing,17,2026-10-14,
+WF00161,DAM00435,2026-09-16,Localization,Completed,HR Communications,0,2026-09-27,2026-09-17
+WF00162,DAM00371,2026-08-29,Final QA,Completed,Brand,0,2026-09-07,2026-10-10
+WF00163,DAM00427,2026-10-07,Legal Approval,Completed,Sales Enablement,0,2026-10-13,2026-10-14
+WF00164,DAM00006,2026-09-03,Final QA,Pending,HR Communications,4,2026-09-11,
+WF00165,DAM00214,2026-09-16,Final QA,Completed,Brand,0,2026-09-29,2026-10-14
+WF00166,DAM00134,2026-09-16,Localization,In Progress,Brand,20,2026-09-29,
+WF00167,DAM00319,2026-09-22,Brand Review,Completed,Brand,0,2026-09-26,2026-10-13
+WF00168,DAM00714,2026-09-20,Final QA,Completed,Product Marketing,0,2026-09-24,2026-10-03
+WF00169,DAM00158,2026-09-07,Creative Review,Completed,Regional Marketing,0,2026-09-11,2026-09-20
+WF00170,DAM00047,2026-08-23,Final QA,Completed,Brand,0,2026-08-31,2026-09-06
+WF00171,DAM00166,2026-09-13,Final QA,Completed,Brand,0,2026-09-20,2026-10-01
+WF00172,DAM00640,2026-09-12,Final QA,In Progress,HR Communications,25,2026-09-23,
+WF00173,DAM00546,2026-10-07,Creative Review,Completed,Sales Enablement,0,2026-10-20,2026-10-09
+WF00174,DAM00158,2026-08-26,Brand Review,In Progress,Regional Marketing,32,2026-09-08,
+WF00175,DAM00473,2026-10-09,Legal Approval,Completed,HR Communications,0,2026-10-18,2026-10-12
+WF00176,DAM00722,2026-09-14,Legal Approval,In Progress,Product Marketing,18,2026-09-26,
+WF00177,DAM00400,2026-09-19,Brand Review,In Progress,Product Marketing,35,2026-09-30,
+WF00178,DAM00453,2026-09-14,Localization,Completed,Sales Enablement,0,2026-09-26,2026-09-26
+WF00179,DAM00015,2026-08-31,Creative Review,Completed,Brand,0,2026-09-08,2026-10-03
+WF00180,DAM00373,2026-09-21,Creative Review,Completed,Sales Enablement,0,2026-09-29,2026-09-23
+WF00181,DAM00308,2026-09-11,Localization,Completed,Product Marketing,0,2026-09-22,2026-09-20
+WF00182,DAM00002,2026-08-30,Brand Review,In Progress,Brand,8,2026-09-13,
+WF00183,DAM00035,2026-09-06,Legal Approval,In Progress,Regional Marketing,3,2026-09-14,
+WF00184,DAM00067,2026-08-30,Creative Review,Completed,Brand,0,2026-09-05,2026-10-10
+WF00185,DAM00350,2026-08-31,Final QA,In Progress,Brand,2,2026-09-10,
+WF00186,DAM00104,2026-09-24,Localization,Completed,Brand,0,2026-09-30,2026-09-30
+WF00187,DAM00453,2026-09-22,Brand Review,In Progress,Product Marketing,15,2026-09-30,
+WF00188,DAM00657,2026-10-16,Legal Approval,Completed,Regional Marketing,0,2026-10-25,2026-10-18
+WF00189,DAM00338,2026-08-25,Legal Approval,Pending,Regional Marketing,8,2026-09-07,
+WF00190,DAM00468,2026-08-30,Brand Review,Completed,HR Communications,0,2026-09-05,2026-10-12
+WF00191,DAM00059,2026-08-23,Creative Review,Pending,Brand,26,2026-09-01,
+WF00192,DAM00341,2026-09-08,Final QA,Completed,Product Marketing,0,2026-09-13,2026-10-10
+WF00193,DAM00305,2026-09-04,Legal Approval,Pending,HR Communications,35,2026-09-17,
+WF00194,DAM00274,2026-08-27,Final QA,Completed,Sales Enablement,0,2026-09-01,2026-10-06
+WF00195,DAM00164,2026-08-27,Brand Review,In Progress,Product Marketing,13,2026-09-02,
+WF00196,DAM00428,2026-09-10,Localization,Completed,Regional Marketing,0,2026-09-15,2026-10-06
+WF00197,DAM00278,2026-08-31,Legal Approval,Pending,Regional Marketing,27,2026-09-13,
+WF00198,DAM00350,2026-09-28,Brand Review,Completed,Product Marketing,0,2026-10-09,2026-10-07
+WF00199,DAM00200,2026-10-09,Final QA,Completed,Product Marketing,0,2026-10-14,2026-10-10
+WF00200,DAM00010,2026-09-21,Localization,Completed,Regional Marketing,0,2026-09-27,2026-10-16
+WF00201,DAM00438,2026-10-07,Final QA,In Progress,Product Marketing,32,2026-10-15,
+WF00202,DAM00198,2026-09-09,Legal Approval,In Progress,HR Communications,35,2026-09-21,
+WF00203,DAM00459,2026-10-13,Brand Review,Pending,Product Marketing,33,2026-10-18,
+WF00204,DAM00125,2026-09-09,Localization,Completed,Brand,0,2026-09-16,2026-10-04
+WF00205,DAM00748,2026-10-01,Brand Review,Pending,Product Marketing,21,2026-10-09,
+WF00206,DAM00104,2026-09-02,Final QA,Completed,HR Communications,0,2026-09-11,2026-09-08
+WF00207,DAM00352,2026-08-30,Localization,In Progress,Sales Enablement,24,2026-09-08,
+WF00208,DAM00746,2026-09-26,Creative Review,Completed,Sales Enablement,0,2026-10-10,2026-10-14
+WF00209,DAM00699,2026-09-01,Legal Approval,Completed,Product Marketing,0,2026-09-05,2026-09-24
+WF00210,DAM00724,2026-09-01,Legal Approval,Completed,Regional Marketing,0,2026-09-05,2026-09-21
+WF00211,DAM00785,2026-08-23,Legal Approval,Completed,Sales Enablement,0,2026-09-03,2026-08-24
+WF00212,DAM00172,2026-10-15,Legal Approval,In Progress,Brand,21,2026-10-20,
+WF00213,DAM00737,2026-09-06,Creative Review,Completed,Brand,0,2026-09-20,2026-10-06
+WF00214,DAM00054,2026-08-30,Legal Approval,In Progress,Regional Marketing,11,2026-09-11,
+WF00215,DAM00105,2026-09-21,Brand Review,Completed,Sales Enablement,0,2026-10-04,2026-10-06
+WF00216,DAM00530,2026-09-03,Brand Review,Pending,Regional Marketing,29,2026-09-14,
+WF00217,DAM00446,2026-09-17,Legal Approval,In Progress,Sales Enablement,30,2026-09-21,
+WF00218,DAM00795,2026-10-07,Brand Review,Completed,Regional Marketing,0,2026-10-11,2026-10-12
+WF00219,DAM00672,2026-09-04,Final QA,Pending,Product Marketing,24,2026-09-15,
+WF00220,DAM00713,2026-09-04,Legal Approval,In Progress,HR Communications,3,2026-09-12,
+WF00221,DAM00770,2026-10-02,Creative Review,Pending,Regional Marketing,11,2026-10-10,
+WF00222,DAM00119,2026-09-14,Final QA,In Progress,Product Marketing,29,2026-09-23,
+WF00223,DAM00686,2026-09-12,Legal Approval,In Progress,Brand,25,2026-09-26,
+WF00224,DAM00669,2026-10-15,Final QA,Completed,Product Marketing,0,2026-10-19,2026-10-16
+WF00225,DAM00186,2026-10-16,Creative Review,Completed,HR Communications,0,2026-10-26,2026-10-17
+WF00226,DAM00400,2026-09-11,Creative Review,Pending,HR Communications,13,2026-09-17,
+WF00227,DAM00687,2026-09-27,Brand Review,In Progress,Sales Enablement,29,2026-10-11,
+WF00228,DAM00003,2026-10-12,Creative Review,Pending,Sales Enablement,5,2026-10-19,
+WF00229,DAM00159,2026-09-26,Creative Review,Pending,Sales Enablement,14,2026-10-10,
+WF00230,DAM00086,2026-09-17,Final QA,Pending,Regional Marketing,22,2026-09-22,
+WF00231,DAM00203,2026-09-07,Creative Review,Completed,Brand,0,2026-09-16,2026-09-22
+WF00232,DAM00782,2026-09-11,Brand Review,In Progress,Brand,3,2026-09-16,
+WF00233,DAM00452,2026-10-01,Brand Review,In Progress,Product Marketing,30,2026-10-09,
+WF00234,DAM00093,2026-09-21,Legal Approval,Completed,Regional Marketing,0,2026-10-05,2026-10-14
+WF00235,DAM00318,2026-10-03,Legal Approval,In Progress,Product Marketing,12,2026-10-07,
+WF00236,DAM00116,2026-09-06,Creative Review,In Progress,Regional Marketing,30,2026-09-11,
+WF00237,DAM00447,2026-09-07,Final QA,Completed,Sales Enablement,0,2026-09-21,2026-09-24
+WF00238,DAM00614,2026-09-12,Brand Review,Completed,Regional Marketing,0,2026-09-21,2026-09-22
+WF00239,DAM00031,2026-10-07,Localization,Completed,Brand,0,2026-10-14,2026-10-16
+WF00240,DAM00566,2026-10-02,Localization,Completed,Product Marketing,0,2026-10-12,2026-10-13
+WF00241,DAM00715,2026-10-10,Final QA,Completed,Regional Marketing,0,2026-10-19,2026-10-15
+WF00242,DAM00014,2026-09-12,Localization,Completed,HR Communications,0,2026-09-19,2026-10-12
+WF00243,DAM00217,2026-09-09,Brand Review,Completed,Product Marketing,0,2026-09-16,2026-09-20
+WF00244,DAM00797,2026-10-01,Localization,In Progress,Product Marketing,7,2026-10-08,
+WF00245,DAM00102,2026-09-07,Legal Approval,Completed,Regional Marketing,0,2026-09-16,2026-09-13
+WF00246,DAM00765,2026-10-08,Final QA,Completed,Brand,0,2026-10-12,2026-10-12
+WF00247,DAM00138,2026-09-20,Legal Approval,Completed,HR Communications,0,2026-09-29,2026-10-03
+WF00248,DAM00382,2026-10-06,Legal Approval,In Progress,Sales Enablement,30,2026-10-10,
+WF00249,DAM00598,2026-09-04,Creative Review,Pending,Regional Marketing,25,2026-09-15,
+WF00250,DAM00292,2026-09-26,Brand Review,Completed,HR Communications,0,2026-10-02,2026-09-28
+WF00251,DAM00725,2026-10-08,Localization,In Progress,Regional Marketing,6,2026-10-18,
+WF00252,DAM00472,2026-08-30,Localization,In Progress,Sales Enablement,5,2026-09-04,
+WF00253,DAM00427,2026-09-12,Localization,Completed,Brand,0,2026-09-24,2026-10-12
+WF00254,DAM00305,2026-09-07,Final QA,In Progress,Product Marketing,28,2026-09-15,
+WF00255,DAM00551,2026-10-09,Final QA,In Progress,Sales Enablement,35,2026-10-23,
+WF00256,DAM00575,2026-09-17,Creative Review,Pending,Brand,1,2026-09-23,
+WF00257,DAM00514,2026-09-11,Creative Review,Pending,Regional Marketing,31,2026-09-20,
+WF00258,DAM00484,2026-09-06,Legal Approval,Completed,Regional Marketing,0,2026-09-10,2026-09-28
+WF00259,DAM00767,2026-10-07,Final QA,In Progress,HR Communications,14,2026-10-11,
+WF00260,DAM00415,2026-10-12,Brand Review,Pending,Sales Enablement,3,2026-10-22,
+WF00261,DAM00735,2026-09-25,Legal Approval,Pending,Regional Marketing,13,2026-10-04,
+WF00262,DAM00020,2026-09-19,Brand Review,Completed,Sales Enablement,0,2026-09-26,2026-09-24
+WF00263,DAM00606,2026-10-06,Final QA,Completed,Sales Enablement,0,2026-10-15,2026-10-07
+WF00264,DAM00307,2026-08-25,Final QA,Pending,Product Marketing,1,2026-09-05,
+WF00265,DAM00373,2026-09-30,Brand Review,Pending,HR Communications,9,2026-10-07,
+WF00266,DAM00215,2026-09-13,Brand Review,Completed,Product Marketing,0,2026-09-17,2026-10-10
+WF00267,DAM00605,2026-09-29,Final QA,In Progress,HR Communications,30,2026-10-10,
+WF00268,DAM00129,2026-10-07,Localization,Completed,HR Communications,0,2026-10-19,2026-10-12
+WF00269,DAM00046,2026-08-24,Final QA,Pending,Regional Marketing,8,2026-09-05,
+WF00270,DAM00614,2026-09-25,Final QA,Pending,Product Marketing,18,2026-10-06,
+WF00271,DAM00229,2026-09-02,Creative Review,In Progress,HR Communications,3,2026-09-11,
+WF00272,DAM00540,2026-10-06,Creative Review,In Progress,Brand,4,2026-10-11,
+WF00273,DAM00505,2026-09-16,Final QA,Completed,Product Marketing,0,2026-09-22,2026-10-13
+WF00274,DAM00218,2026-09-23,Final QA,Completed,Product Marketing,0,2026-09-29,2026-10-04
+WF00275,DAM00145,2026-10-13,Legal Approval,Completed,Sales Enablement,0,2026-10-20,2026-10-14
+WF00276,DAM00227,2026-10-08,Final QA,In Progress,Sales Enablement,21,2026-10-18,
+WF00277,DAM00126,2026-08-24,Localization,In Progress,Product Marketing,7,2026-09-06,
+WF00278,DAM00590,2026-09-29,Brand Review,Completed,HR Communications,0,2026-10-12,2026-10-02
+WF00279,DAM00149,2026-10-08,Final QA,In Progress,Regional Marketing,6,2026-10-18,
+WF00280,DAM00068,2026-09-27,Legal Approval,In Progress,Sales Enablement,3,2026-10-03,
+WF00281,DAM00789,2026-10-16,Legal Approval,In Progress,Sales Enablement,32,2026-10-26,
+WF00282,DAM00079,2026-09-13,Creative Review,Pending,Regional Marketing,34,2026-09-24,
+WF00283,DAM00471,2026-10-05,Brand Review,Completed,Regional Marketing,0,2026-10-10,2026-10-08
+WF00284,DAM00254,2026-09-18,Brand Review,In Progress,Brand,23,2026-10-01,
+WF00285,DAM00158,2026-09-25,Brand Review,Completed,Product Marketing,0,2026-10-03,2026-10-05
+WF00286,DAM00294,2026-09-09,Legal Approval,Pending,HR Communications,8,2026-09-17,
+WF00287,DAM00545,2026-09-16,Brand Review,In Progress,HR Communications,23,2026-09-24,
+WF00288,DAM00608,2026-08-29,Legal Approval,In Progress,Sales Enablement,17,2026-09-03,
+WF00289,DAM00193,2026-09-24,Legal Approval,Completed,Regional Marketing,0,2026-10-05,2026-10-12
+WF00290,DAM00675,2026-10-11,Localization,In Progress,Product Marketing,9,2026-10-22,
+WF00291,DAM00269,2026-10-15,Brand Review,Completed,Brand,0,2026-10-26,2026-10-17
+WF00292,DAM00401,2026-10-11,Legal Approval,Pending,Sales Enablement,29,2026-10-19,
+WF00293,DAM00458,2026-10-05,Final QA,Completed,Product Marketing,0,2026-10-19,2026-10-11
+WF00294,DAM00390,2026-09-17,Legal Approval,Completed,Sales Enablement,0,2026-09-22,2026-10-15
+WF00295,DAM00660,2026-09-29,Creative Review,Pending,Product Marketing,1,2026-10-11,
+WF00296,DAM00648,2026-09-07,Final QA,Completed,Regional Marketing,0,2026-09-19,2026-09-09
+WF00297,DAM00383,2026-09-02,Brand Review,Completed,Brand,0,2026-09-08,2026-09-23
+WF00298,DAM00243,2026-09-04,Legal Approval,In Progress,Sales Enablement,33,2026-09-14,
+WF00299,DAM00324,2026-09-27,Legal Approval,In Progress,Brand,14,2026-10-01,
+WF00300,DAM00134,2026-10-04,Creative Review,Pending,Regional Marketing,10,2026-10-18,
+WF00301,DAM00085,2026-08-31,Creative Review,In Progress,HR Communications,21,2026-09-08,
+WF00302,DAM00054,2026-10-14,Brand Review,Completed,Sales Enablement,0,2026-10-19,2026-10-17
+WF00303,DAM00095,2026-10-15,Localization,Completed,Sales Enablement,0,2026-10-21,2026-10-16
+WF00304,DAM00296,2026-09-22,Localization,In Progress,Product Marketing,34,2026-09-29,
+WF00305,DAM00086,2026-10-09,Final QA,In Progress,Sales Enablement,33,2026-10-17,
+WF00306,DAM00331,2026-08-30,Localization,In Progress,Sales Enablement,9,2026-09-13,
+WF00307,DAM00475,2026-08-27,Final QA,Pending,Product Marketing,26,2026-09-07,
+WF00308,DAM00502,2026-09-09,Final QA,Completed,Brand,0,2026-09-20,2026-09-18
+WF00309,DAM00180,2026-10-15,Legal Approval,In Progress,Brand,2,2026-10-21,
+WF00310,DAM00164,2026-09-03,Legal Approval,Pending,Brand,6,2026-09-08,
+WF00311,DAM00796,2026-10-07,Localization,Completed,Regional Marketing,0,2026-10-15,2026-10-12
+WF00312,DAM00357,2026-10-06,Creative Review,Pending,HR Communications,35,2026-10-14,
+WF00313,DAM00423,2026-09-22,Legal Approval,Completed,Product Marketing,0,2026-10-04,2026-10-14
+WF00314,DAM00433,2026-09-18,Brand Review,Pending,Sales Enablement,25,2026-09-30,
+WF00315,DAM00078,2026-10-16,Brand Review,Completed,Sales Enablement,0,2026-10-20,2026-10-17
+WF00316,DAM00188,2026-10-04,Creative Review,Pending,Regional Marketing,8,2026-10-09,
+WF00317,DAM00480,2026-09-04,Brand Review,Completed,HR Communications,0,2026-09-16,2026-10-17
+WF00318,DAM00359,2026-08-28,Final QA,Pending,Product Marketing,27,2026-09-04,
+WF00319,DAM00719,2026-09-07,Creative Review,Pending,HR Communications,3,2026-09-18,
+WF00320,DAM00347,2026-09-18,Localization,Pending,Sales Enablement,19,2026-09-29,
+WF00321,DAM00211,2026-09-21,Final QA,In Progress,Regional Marketing,9,2026-10-03,
+WF00322,DAM00111,2026-09-03,Legal Approval,In Progress,Brand,20,2026-09-07,
+WF00323,DAM00457,2026-10-16,Creative Review,Completed,Regional Marketing,0,2026-10-29,2026-10-17
+WF00324,DAM00149,2026-09-23,Creative Review,Pending,Regional Marketing,32,2026-09-27,
+WF00325,DAM00244,2026-10-10,Brand Review,In Progress,Regional Marketing,8,2026-10-17,
+WF00326,DAM00166,2026-09-10,Brand Review,Completed,HR Communications,0,2026-09-14,2026-10-15
+WF00327,DAM00267,2026-10-03,Localization,Completed,HR Communications,0,2026-10-08,2026-10-17
+WF00328,DAM00681,2026-08-31,Creative Review,In Progress,Sales Enablement,23,2026-09-13,
+WF00329,DAM00791,2026-09-30,Brand Review,In Progress,Regional Marketing,33,2026-10-08,
+WF00330,DAM00759,2026-08-27,Brand Review,In Progress,Regional Marketing,20,2026-08-31,
+WF00331,DAM00008,2026-08-26,Legal Approval,Completed,Brand,0,2026-09-06,2026-09-28
+WF00332,DAM00762,2026-09-05,Final QA,In Progress,Sales Enablement,16,2026-09-11,
+WF00333,DAM00377,2026-09-28,Creative Review,Completed,Regional Marketing,0,2026-10-09,2026-10-11
+WF00334,DAM00693,2026-10-03,Brand Review,Completed,HR Communications,0,2026-10-07,2026-10-08
+WF00335,DAM00539,2026-09-13,Creative Review,Completed,Regional Marketing,0,2026-09-24,2026-10-03
+WF00336,DAM00064,2026-10-06,Final QA,Pending,Regional Marketing,5,2026-10-19,
+WF00337,DAM00607,2026-10-12,Brand Review,Completed,Sales Enablement,0,2026-10-25,2026-10-14
+WF00338,DAM00263,2026-10-14,Legal Approval,Completed,Brand,0,2026-10-23,2026-10-16
+WF00339,DAM00487,2026-09-19,Brand Review,Pending,HR Communications,19,2026-09-29,
+WF00340,DAM00749,2026-10-13,Legal Approval,Pending,Product Marketing,4,2026-10-27,
+WF00341,DAM00561,2026-08-28,Brand Review,Pending,Regional Marketing,33,2026-09-11,
+WF00342,DAM00799,2026-09-01,Legal Approval,Completed,Product Marketing,0,2026-09-05,2026-10-08
+WF00343,DAM00349,2026-10-13,Localization,In Progress,Product Marketing,26,2026-10-19,
+WF00344,DAM00578,2026-09-17,Final QA,In Progress,HR Communications,3,2026-09-27,
+WF00345,DAM00598,2026-10-07,Legal Approval,Completed,Brand,0,2026-10-17,2026-10-17
+WF00346,DAM00056,2026-09-07,Localization,Completed,Regional Marketing,0,2026-09-18,2026-09-09
+WF00347,DAM00274,2026-10-02,Brand Review,Completed,Sales Enablement,0,2026-10-09,2026-10-08
+WF00348,DAM00701,2026-09-06,Final QA,Completed,Regional Marketing,0,2026-09-16,2026-09-22
+WF00349,DAM00057,2026-10-14,Localization,Completed,Regional Marketing,0,2026-10-23,2026-10-17
+WF00350,DAM00444,2026-09-23,Legal Approval,Completed,Brand,0,2026-09-29,2026-09-27
+WF00351,DAM00754,2026-10-10,Final QA,In Progress,Product Marketing,26,2026-10-18,
+WF00352,DAM00330,2026-08-29,Localization,In Progress,Sales Enablement,22,2026-09-11,
+WF00353,DAM00244,2026-10-14,Localization,In Progress,Regional Marketing,5,2026-10-28,
+WF00354,DAM00586,2026-10-07,Legal Approval,In Progress,Product Marketing,11,2026-10-20,
+WF00355,DAM00046,2026-08-31,Localization,In Progress,Product Marketing,26,2026-09-13,
+WF00356,DAM00328,2026-08-25,Final QA,Pending,HR Communications,4,2026-09-07,
+WF00357,DAM00093,2026-09-14,Creative Review,Completed,Brand,0,2026-09-28,2026-09-30
+WF00358,DAM00243,2026-09-02,Final QA,In Progress,Sales Enablement,7,2026-09-07,
+WF00359,DAM00631,2026-09-24,Creative Review,Completed,Regional Marketing,0,2026-10-02,2026-09-30
+WF00360,DAM00436,2026-08-30,Legal Approval,In Progress,HR Communications,9,2026-09-07,
+WF00361,DAM00326,2026-09-13,Localization,In Progress,HR Communications,25,2026-09-22,
+WF00362,DAM00615,2026-09-24,Creative Review,In Progress,Sales Enablement,32,2026-10-01,
+WF00363,DAM00527,2026-09-09,Brand Review,Completed,Regional Marketing,0,2026-09-23,2026-10-08
+WF00364,DAM00648,2026-10-02,Localization,Completed,HR Communications,0,2026-10-06,2026-10-12
+WF00365,DAM00092,2026-10-08,Final QA,Completed,Product Marketing,0,2026-10-18,2026-10-17
+WF00366,DAM00272,2026-09-25,Legal Approval,Completed,Brand,0,2026-10-01,2026-09-28
+WF00367,DAM00497,2026-10-07,Localization,Completed,Sales Enablement,0,2026-10-12,2026-10-12
+WF00368,DAM00453,2026-10-08,Final QA,Completed,HR Communications,0,2026-10-12,2026-10-11
+WF00369,DAM00639,2026-08-23,Legal Approval,Pending,HR Communications,1,2026-09-06,
+WF00370,DAM00495,2026-09-12,Brand Review,Completed,Product Marketing,0,2026-09-25,2026-09-16
+WF00371,DAM00479,2026-08-23,Creative Review,Completed,Sales Enablement,0,2026-08-29,2026-10-11
+WF00372,DAM00459,2026-08-27,Localization,Completed,Brand,0,2026-09-07,2026-09-13
+WF00373,DAM00221,2026-09-20,Localization,Completed,HR Communications,0,2026-10-04,2026-10-06
+WF00374,DAM00337,2026-09-02,Creative Review,Pending,Sales Enablement,20,2026-09-07,
+WF00375,DAM00680,2026-09-11,Creative Review,In Progress,HR Communications,35,2026-09-23,
+WF00376,DAM00254,2026-10-13,Final QA,In Progress,Sales Enablement,30,2026-10-20,
+WF00377,DAM00143,2026-10-03,Legal Approval,Completed,Regional Marketing,0,2026-10-09,2026-10-13
+WF00378,DAM00757,2026-10-13,Brand Review,In Progress,Product Marketing,17,2026-10-20,
+WF00379,DAM00246,2026-10-11,Legal Approval,In Progress,Brand,32,2026-10-19,
+WF00380,DAM00009,2026-09-10,Creative Review,Completed,HR Communications,0,2026-09-22,2026-10-01
+WF00381,DAM00495,2026-09-23,Final QA,Completed,Regional Marketing,0,2026-09-30,2026-09-27
+WF00382,DAM00069,2026-10-02,Localization,In Progress,Product Marketing,13,2026-10-13,
+WF00383,DAM00001,2026-10-16,Brand Review,Completed,Product Marketing,0,2026-10-25,2026-10-17
+WF00384,DAM00568,2026-09-18,Creative Review,Pending,Product Marketing,2,2026-09-23,
+WF00385,DAM00212,2026-09-11,Creative Review,Completed,Product Marketing,0,2026-09-24,2026-09-24
+WF00386,DAM00746,2026-08-28,Creative Review,In Progress,Product Marketing,28,2026-09-01,
+WF00387,DAM00535,2026-10-15,Final QA,In Progress,Regional Marketing,29,2026-10-21,
+WF00388,DAM00747,2026-10-14,Final QA,Completed,Regional Marketing,0,2026-10-22,2026-10-15
+WF00389,DAM00045,2026-10-06,Legal Approval,Completed,Sales Enablement,0,2026-10-12,2026-10-07
+WF00390,DAM00375,2026-10-09,Final QA,Completed,Regional Marketing,0,2026-10-15,2026-10-16
+WF00391,DAM00599,2026-10-02,Legal Approval,In Progress,Brand,15,2026-10-12,
+WF00392,DAM00507,2026-09-02,Creative Review,In Progress,Product Marketing,35,2026-09-12,
+WF00393,DAM00597,2026-08-24,Localization,In Progress,Regional Marketing,5,2026-09-02,
+WF00394,DAM00452,2026-09-20,Creative Review,In Progress,HR Communications,22,2026-09-29,
+WF00395,DAM00551,2026-09-20,Brand Review,Completed,Product Marketing,0,2026-10-03,2026-10-01
+WF00396,DAM00122,2026-10-03,Legal Approval,Completed,Brand,0,2026-10-12,2026-10-15
+WF00397,DAM00234,2026-09-08,Brand Review,Completed,Product Marketing,0,2026-09-13,2026-09-25
+WF00398,DAM00126,2026-08-26,Brand Review,Completed,Product Marketing,0,2026-09-08,2026-09-28
+WF00399,DAM00341,2026-09-09,Creative Review,In Progress,Product Marketing,4,2026-09-23,
+WF00400,DAM00768,2026-10-03,Creative Review,In Progress,Regional Marketing,21,2026-10-17,
+WF00401,DAM00616,2026-09-19,Localization,Pending,Regional Marketing,3,2026-10-01,
+WF00402,DAM00482,2026-08-24,Creative Review,Completed,Sales Enablement,0,2026-09-02,2026-08-30
+WF00403,DAM00224,2026-08-27,Brand Review,Pending,HR Communications,34,2026-09-03,
+WF00404,DAM00147,2026-10-16,Brand Review,Completed,Regional Marketing,0,2026-10-22,2026-10-17
+WF00405,DAM00670,2026-09-22,Brand Review,In Progress,HR Communications,22,2026-09-27,
+WF00406,DAM00710,2026-09-04,Legal Approval,Pending,Regional Marketing,13,2026-09-15,
+WF00407,DAM00685,2026-09-02,Brand Review,In Progress,Product Marketing,16,2026-09-10,
+WF00408,DAM00315,2026-08-30,Creative Review,Completed,Brand,0,2026-09-04,2026-09-29
+WF00409,DAM00437,2026-10-08,Creative Review,Completed,Brand,0,2026-10-19,2026-10-12
+WF00410,DAM00794,2026-09-08,Creative Review,In Progress,Sales Enablement,17,2026-09-17,
+WF00411,DAM00024,2026-08-29,Brand Review,Pending,Brand,15,2026-09-09,
+WF00412,DAM00781,2026-10-14,Final QA,In Progress,Sales Enablement,13,2026-10-23,
+WF00413,DAM00243,2026-09-24,Creative Review,Completed,Sales Enablement,0,2026-10-04,2026-09-28
+WF00414,DAM00735,2026-09-14,Legal Approval,In Progress,Product Marketing,9,2026-09-27,
+WF00415,DAM00071,2026-09-27,Legal Approval,In Progress,Brand,34,2026-10-05,
+WF00416,DAM00670,2026-10-10,Localization,Completed,Sales Enablement,0,2026-10-23,2026-10-12
+WF00417,DAM00277,2026-09-08,Creative Review,In Progress,Brand,13,2026-09-20,
+WF00418,DAM00159,2026-10-08,Creative Review,In Progress,Sales Enablement,20,2026-10-20,
+WF00419,DAM00287,2026-08-24,Legal Approval,In Progress,Regional Marketing,14,2026-08-31,
+WF00420,DAM00735,2026-09-03,Creative Review,Pending,Regional Marketing,33,2026-09-11,
