@@ -1,0 +1,5 @@
+Read 800 assets; wrote /mnt/data/resume_project_portfolio/project_1_dam_analytics/data/assets_enriched.csv
+Low metadata flags: 234
+Rights expired flags: 241
+Rights expiring in 30 days: 78
+Review flags are triage signals; verify with content owners before taking action.
